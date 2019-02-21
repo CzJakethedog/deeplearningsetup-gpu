@@ -2,7 +2,7 @@
 
 Here is attached the file to configure the environment for Deep Learning by using Keras and Backend is tensorflow on GPU. Follow the following step in Ubuntu 16.04 LTS environment.
 ```
- git clone https://github.com/CzJakethedog/Deeplearning-setup.git
+ git clone https://github.com/CzJakethedog/deeplearningsetup-gpu.git
 ```
 
 # Installation
