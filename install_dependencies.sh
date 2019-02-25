@@ -10,4 +10,6 @@ sudo apt-get install libopenblas-dev libatlas-base-dev gfortran -y
 sudo apt-get install python-tk python3-tk python-imaging-tk -y
 sudo apt-get install libgtk2.0-dev -y
 sudo apt-get install pkg-config -y
-
+sudo apt-get install python2.7-dev python3-dev
+sudo apt-get install linux-image-generic linux-image-extra-virtual
+sudo apt-get install linux-source linux-headers-generic
